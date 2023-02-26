@@ -13,7 +13,7 @@ import sys
 import torch  
 
 print(sys.version)  
-print(torch.__version__)  
+print(torch.&#95;&#95;version&#95;&#95;)  
 print(torch.version.cuda)  
 print(torch.cuda.is_available())  
 print(torch.cuda.get_device_name())  
