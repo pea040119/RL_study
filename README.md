@@ -1,12 +1,12 @@
 STUDY
 
 Check versions
- - python
- python --version
+ - python  
+ python --version  
 
- - cuda
- nvidia-smi
- nvcc --version
+ - cuda  
+ nvidia-smi  
+ nvcc --version  
 
 Check version in .py  
 import sys  
